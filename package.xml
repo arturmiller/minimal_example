@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <name>minimal_example</name>
+  <version>0.0.1</version>
+  <description>A minimal example</description>
+
+  <maintainer email="amiller89@gmx.de">amiller</maintainer>
+  <author email="amiller89@gmx.de">Artur Miller</author>
+
+  <license>MIT</license>
+
+</package>
+
